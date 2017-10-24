@@ -14,6 +14,7 @@ func init() {
 	sayings := []string{
 		"Dont squat with your spurs on!",
 		"Never buy your salsa in New York city.",
+		"Tenderfoots gotta do the coffee runs.",
 	}
 	rand.Seed(42)
 
