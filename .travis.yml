@@ -1,0 +1,5 @@
+language: go
+
+script:
+ - go build yeehaw.go
+ 
